@@ -29,9 +29,9 @@ Related fields are also supported::
 How?
 ----
 
-Install it from PyPI with::
+Install it with `pip`::
 
-    $ pip install django-tabcomplete
+    $ pip install git+https://github.com/jnothman/django-tabcomplete
 
 then add it to your Django project's ``settings.py``::
 
